@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/tri7ratops/calculator/BuildConfig.java
+ com.tri7ratops.calculator.BuildConfig

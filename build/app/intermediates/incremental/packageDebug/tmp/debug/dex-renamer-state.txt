@@ -1,0 +1,4 @@
+#Wed Apr 07 22:43:47 CEST 2021
+base.0=/Users/martinjanuario/Developpement/calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

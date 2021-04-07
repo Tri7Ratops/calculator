@@ -1,16 +1,20 @@
-# calculator
+# Calculator app
 
 A simple calculator application.
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+* Calculation
+* Copy to clipboard
+* Persistent data (current calculation and last result)
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <thead>
+    <tr><th> Empty Page</th><th> Calculation + Clipboard</th></tr>
+  </thead>
+  <tbody>
+    <tr><td> <img src="assets/calculator1.jpg" alt="Empty Page" /> </td><td> <img src="assets/calculator3.jpg" alt="Register" /> </td></tr>
+  </tbody>
+</table>
